@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\NF\\portfolio-website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|C:\\NF\\portfolio-website\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|C:\\NF\\portfolio-website\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\NF\\portfolio-website\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\NF\\portfolio-website\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-12-16T06:19:06.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\NF\\portfolio-website\\style.css",
+              "RelativeDocumentMoniker": "style.css",
+              "ToolTip": "C:\\NF\\portfolio-website\\style.css",
+              "RelativeToolTip": "style.css",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAI0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-16T06:44:30.412Z",
               "EditorCaption": ""
             }
           ]
