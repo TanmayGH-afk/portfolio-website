@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\NF\\portfolio-website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|C:\\NF\\portfolio-website\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|C:\\NF\\portfolio-website\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|C:\\NF\\portfolio-website\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|solutionrelative:style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|C:\\NF\\portfolio-website\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9129F377-57ED-41AD-BD5D-D43DF17E7DAC}|PorfolioWebsite.vcxproj|solutionrelative:style.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,10 +28,9 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\NF\\portfolio-website\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAJsBAAAAAAAAAAAAAL0BAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAAAPMBAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-16T06:19:06.106Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-11-11T08:50:20.922Z",
               "EditorCaption": ""
             },
             {
@@ -42,11 +41,18 @@
               "RelativeDocumentMoniker": "style.css",
               "ToolTip": "C:\\NF\\portfolio-website\\style.css",
               "RelativeToolTip": "style.css",
-              "ViewState": "AgIAAAECAAAAAAAAAAAAABACAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-16T06:44:30.412Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-11-11T08:50:28.025Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{5d51d786-731c-4256-bf95-6a6dd495c7d7}"
             }
           ]
         }
